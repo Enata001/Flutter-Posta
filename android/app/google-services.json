@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586036629606",
+    "project_id": "posta-9377a",
+    "storage_bucket": "posta-9377a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586036629606:android:6a7a4c0369698662e15da7",
+        "android_client_info": {
+          "package_name": "com.example.posta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4RNIt2__AaTo3UeVuPntO5ryT9ofK1qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
