@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">posta share image</string>
+    <string name="facebook_app_id">3830945407139424</string>
+    <string name="fb_login_protocol_scheme">fb3830945407139424</string>
+    <string name="facebook_client_token">6d133663f8f7680ab35a8c28fa58d070</string>
+
+</resources>
